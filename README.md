@@ -6,7 +6,7 @@
 git clone https://github.com/VK-Ant/ComputerVision_Exploration
 cd ComputerVision_Exploration
 pip3 install -r requirements.txt
-python ./volumecontrol.py
+python ./volume_control.py
 
 ```
 
