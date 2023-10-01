@@ -28,5 +28,7 @@ python ./depth_m.py
 
 ```
 
+MiDas Model Downloaded by : https://github.com/isl-org/MiDaS
+
 # **Happy Learning**
 
