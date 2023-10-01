@@ -3,3 +3,4 @@ mediapipe
 comtypes
 numpy
 pycaw
+torch
