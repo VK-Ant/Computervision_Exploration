@@ -43,8 +43,7 @@ pip3 install -r requirements.txt
 python ./ocr.py
 
 ```
-recent:///c4b8abd22c3a6437186e862965239569
-
+![Screenshot from 2023-10-09 11-18-59](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/5c4e5d12-3a34-4b11-9cbf-774e94d17728)
 
 # **Happy Learning**
 
