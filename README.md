@@ -31,7 +31,6 @@ MiDas Model Downloaded by : https://github.com/isl-org/MiDaS
 
 # 3. Optical character Recognition using EasyOCR (Single and multiple line character extraction)
 
-![output](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/0656d13e-598f-4fa0-81cf-7954d107004e)
 
 ```bash
 git clone https://github.com/VK-Ant/ComputerVision_Exploration
