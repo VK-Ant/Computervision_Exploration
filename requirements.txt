@@ -3,4 +3,7 @@ mediapipe
 comtypes
 numpy
 pycaw
-torch
+torch 
+torchvision 
+torchaudio
+easyocr
