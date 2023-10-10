@@ -31,6 +31,7 @@ MiDas Model Downloaded by : https://github.com/isl-org/MiDaS
 
 # 3. Optical character Recognition using EasyOCR (Single and multiple line character extraction)
 
+![Screenshot from 2023-10-09 11-18-59](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/5c4e5d12-3a34-4b11-9cbf-774e94d17728)
 
 ```bash
 git clone https://github.com/VK-Ant/ComputerVision_Exploration
@@ -42,7 +43,23 @@ pip3 install -r requirements.txt
 python ./ocr.py
 
 ```
-![Screenshot from 2023-10-09 11-18-59](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/5c4e5d12-3a34-4b11-9cbf-774e94d17728)
+
+# 4. Cow counting using YoloV8 (Region based counting)
+
+![Screenshot from 2023-10-09 17-23-46](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/bda31933-ac9d-401d-8898-a223aaab3577)
+
+
+```bash
+git clone https://github.com/VK-Ant/ComputerVision_Exploration
+
+cd ComputerVision_Exploration
+
+pip3 install -r requirements.txt
+
+python3 yolov8_counter.py --source "co.mp4" --save-img --view-img
+
+```
+credit: https://github.com/ultralytics/ultralytics/tree/main/examples/YOLOv8-Region-Counter
 
 # **Happy Learning**
 
