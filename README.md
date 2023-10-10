@@ -61,5 +61,21 @@ python3 yolov8_counter.py --source "co.mp4" --save-img --view-img
 ```
 credit: https://github.com/ultralytics/ultralytics/tree/main/examples/YOLOv8-Region-Counter
 
+# 5. DepthMap and Segmentation using DinoV2
+
+![Figure 2023-![Figure 2023-10-10 102602](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/6518ea35-c038-4585-b9c6-481bba1d31b9)
+
+```bash
+git clone https://github.com/VK-Ant/ComputerVision_Exploration
+
+cd ComputerVision_Exploration
+
+pip3 install -r requirements.txt
+
+python3 depth_dinoV2.py
+
+```
+10-10 102548](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/2e9d4d99-0f8d-4588-b108-0d07e96451bc)
+
 # **Happy Learning**
 
