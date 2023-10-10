@@ -63,7 +63,9 @@ credit: https://github.com/ultralytics/ultralytics/tree/main/examples/YOLOv8-Reg
 
 # 5. DepthMap and Segmentation using DinoV2
 
-![Figure 2023-![Figure 2023-10-10 102602](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/6518ea35-c038-4585-b9c6-481bba1d31b9)
+![Figure 2023-10-10 102548](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/e04a11c8-76a8-4c80-9511-97c227fbf829)
+![Figure 2023-10-10 102602](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/96919497-3077-49a8-b2ef-e5baa9425415)
+![Figure 2023-10-10 102659](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/81de1b85-3b60-4308-b304-5470730012c1)
 
 ```bash
 git clone https://github.com/VK-Ant/ComputerVision_Exploration
@@ -75,7 +77,6 @@ pip3 install -r requirements.txt
 python3 depth_dinoV2.py
 
 ```
-10-10 102548](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/2e9d4d99-0f8d-4588-b108-0d07e96451bc)
 
 # **Happy Learning**
 
