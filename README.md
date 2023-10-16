@@ -77,6 +77,12 @@ pip3 install -r requirements.txt
 python3 depth_dinoV2.py
 
 ```
+#6. GeoPy: Distance calculation using two place (Folium)
+![Screenshot from 2023-10-16 12-09-49](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/66f27f83-b880-4930-95f9-15aca56fe610)
+
+Refer: https://github.com/VK-Ant/ComputerVision_Exploration/blob/main/geopy-folium-distancecalculationbetweentwoplace.ipynb
+
+
 
 # **Happy Learning**
 
