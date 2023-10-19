@@ -1,6 +1,4 @@
-# References:
-# - Original model: https://google.github.io/mediapipe/solutions/face_mesh.html
-# - Face swap example: https://pysource.com/2019/05/28/face-swapping-explained-in-8-steps-opencv-with-python
+
 
 import cv2
 from face_mesh_utils import ExorcistFace
@@ -38,3 +36,6 @@ while cap.isOpened():
     cv2.imshow("Exorcist face", exorcist_image)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+# References:
+# - Original model: https://google.github.io/mediapipe/solutions/face_mesh.html
+# - Face swap example: https://pysource.com/2019/05/28/face-swapping-explained-in-8-steps-opencv-with-python
