@@ -3,7 +3,7 @@
 # - Face swap example: https://pysource.com/2019/05/28/face-swapping-explained-in-8-steps-opencv-with-python
 
 import cv2
-from utils.face_mesh_utils import ExorcistFace
+from face_mesh_utils import ExorcistFace
 
 show_webcam = True
 max_people = 1
