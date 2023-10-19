@@ -83,7 +83,20 @@ python3 depth_dinoV2.py
 
 Refer: https://github.com/VK-Ant/ComputerVision_Exploration/blob/main/geopy-folium-distancecalculationbetweentwoplace.ipynb
 
+# 7. Face Swap using Mediapipe
 
+![Screenshot from 2023-10-19 14-46-49](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/c41d354b-f771-4101-8993-d3d345156c67)
+
+```bash
+git clone https://github.com/VK-Ant/ComputerVision_Exploration
+
+cd ComputerVision_Exploration
+
+pip3 install -r requirements.txt
+
+python ./webcamFaceMeshExorcist.py 
+
+```
 
 # **Happy Learning**
 
