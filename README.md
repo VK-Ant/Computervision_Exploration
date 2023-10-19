@@ -97,5 +97,5 @@ python ./webcamFaceMeshExorcist.py
 ```
 ![Screenshot from 2023-10-19 15-08-48](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/a0cbb3c1-ecf3-4953-8621-b71743594869)
 
-# **Happy Learning**
+# **🤗Happy Learning🤗**
 
