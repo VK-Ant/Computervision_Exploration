@@ -8,3 +8,8 @@ torchvision
 torchaudio
 easyocr
 ultralytics
+requests
+imageio
+imread-from-url
+tensorflow
+onnx
