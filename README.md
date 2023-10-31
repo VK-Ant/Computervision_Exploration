@@ -83,7 +83,7 @@ python3 depth_dinoV2.py
 
 Code: https://www.kaggle.com/code/venkatkumar001/geopy-folium-distancecalculationbetweentwoplace
 
-# 7. Face Swap using Mediapipe
+# 7. Face Swap using Mediapipe (hulk and joker)
 
 ```bash
 git clone https://github.com/VK-Ant/ComputerVision_Exploration
@@ -98,6 +98,15 @@ python ./webcamFaceMeshExorcist.py
 ![Screenshot from 2023-10-19 15-08-48](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/a0cbb3c1-ecf3-4953-8621-b71743594869)
 
 ### **Reference: https://developers.google.com/mediapipe**
+
+# 8. Face Swap with interaction using Mediapipe (Halloween)
+
+```bash
+
+python ./smoke.py 
+
+```
+![Screenshot 2023-10-31 142617](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/28bd87ee-d453-4375-93f0-b34e91b528e4)
 
 # **🤗Happy Learning🤗**
 
