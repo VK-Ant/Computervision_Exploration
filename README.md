@@ -108,5 +108,15 @@ python ./smoke.py
 ```
 ![Screenshot 2023-10-31 142617](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/28bd87ee-d453-4375-93f0-b34e91b528e4)
 
+# 9. YoloV8: Object detection (AutoLabelling process) and stored the object in particular folder
+
+-Try yourself in colab
+
+-Autolabel_Particular_object.ipynb
+
+![Screenshot from 2024-01-01 18-44-41](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/1ca0c7f5-68b0-4ba2-af73-2ab6762e3d9a)
+
+
+
 # **🤗Happy Learning🤗**
 
