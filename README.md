@@ -116,6 +116,10 @@ python ./smoke.py
 
 ![Screenshot from 2024-01-01 18-44-41](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/1ca0c7f5-68b0-4ba2-af73-2ab6762e3d9a)
 
+- AutoAnnotation_XML_Horse.ipynb
+- 
+![Screenshot from 2024-01-06 14-48-34](https://github.com/VK-Ant/ComputerVision_Exploration/assets/75832198/402d7afe-b693-415c-a031-74e7e4eee848)
+
 
 
 # **🤗Happy Learning🤗**
