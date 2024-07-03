@@ -1,9 +1,10 @@
 # **VK - GLASS TRYON USING OPENCV**
 
 '''
-- First change xml data path as per requirement
-- pip install -r requirements.txt
-- streamlit run app.py
+git clone https://github.com/VK-Ant/Computervision_Exploration/tree/main/Glass_Tryon
+First change xml data path as per requirement
+pip install -r requirements.txt
+streamlit run app.py
 
 '''
 
