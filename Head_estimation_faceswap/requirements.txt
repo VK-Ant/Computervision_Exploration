@@ -1,4 +1,3 @@
 opencv-python
-numpy
-pandas
+opencv-contrib-python
 mediapipe
