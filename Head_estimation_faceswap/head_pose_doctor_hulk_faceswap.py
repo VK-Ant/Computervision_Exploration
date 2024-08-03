@@ -30,8 +30,8 @@ mp_drawing = mp.solutions.drawing_utils
 drawing_spec = mp_drawing.DrawingSpec(thickness=1, circle_radius=1)
 
 # Inner and outer circle images
-INNER_CIRCLE = "Models/inner_circles/light_orange.png"
-OUTER_CIRCLE = "Models/outer_circles/dark_red.png"
+INNER_CIRCLE = "light_orange_inner.png"
+OUTER_CIRCLE = "dark_red_outer.png"
 
 inner_circle = cv2.imread(INNER_CIRCLE, -1)
 outer_circle = cv2.imread(OUTER_CIRCLE, -1)
